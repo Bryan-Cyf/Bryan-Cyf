@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Blogs:[老陈聊架构](https://chenyuefeng.blog.csdn.net/)
+- Blogs🔭:[老陈聊架构](https://chenyuefeng.blog.csdn.net/)
 - Emails📧:1029442928@qq.com
 
 [![softlgl's github stats](https://github-readme-stats.vercel.app/api?username=Bryan-Cyf)](https://github.com/Bryan-Cyf/github-readme-stats)
